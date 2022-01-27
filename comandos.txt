@@ -1,0 +1,15 @@
+Comandos de instalacion de dependencias proyecto AgenciaViajesNode
+
+// Pagina convertir html a pug
+https://html-to-pug.com/
+
+fonts.google
+
+// Instalar EXPRESS
+npm install express
+
+// Instalar nodemon
+npm install --save-dev nodemon
+
+// Template Engine PUG
+npm install pug

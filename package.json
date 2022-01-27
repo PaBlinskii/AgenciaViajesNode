@@ -1,0 +1,32 @@
+{
+  "name": "agenciaviajesnode",
+  "version": "1.0.0",
+  "description": "Proyecto con Node JS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaBlinskii/AgenciaViajesNode.git"
+  },
+  "keywords": [
+    "Node",
+    "Javascript",
+    "Express"
+  ],
+  "type": "module",
+  "author": "PantoniDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaBlinskii/AgenciaViajesNode/issues"
+  },
+  "homepage": "https://github.com/PaBlinskii/AgenciaViajesNode#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
