@@ -13,3 +13,6 @@ npm install --save-dev nodemon
 
 // Template Engine PUG
 npm install pug
+
+// Correr Servidor
+npm run dev
