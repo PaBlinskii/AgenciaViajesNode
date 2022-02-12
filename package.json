@@ -24,7 +24,9 @@
   "homepage": "https://github.com/PaBlinskii/AgenciaViajesNode#readme",
   "dependencies": {
     "express": "^4.17.2",
-    "pug": "^3.0.2"
+    "mysql2": "^2.3.3",
+    "pug": "^3.0.2",
+    "sequelize": "^6.16.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
