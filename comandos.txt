@@ -16,3 +16,6 @@ npm install pug
 
 // Correr Servidor
 npm run dev
+
+//instalar dependencia Sequelize
+npm install mysql2 sequelize
